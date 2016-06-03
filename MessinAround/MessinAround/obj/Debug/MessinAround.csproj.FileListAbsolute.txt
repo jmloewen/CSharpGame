@@ -1,0 +1,8 @@
+C:\Users\Jonathan\Documents\SFU\PP\seesharp\MessinAround\MessinAround\bin\Debug\MessinAround.exe.config
+C:\Users\Jonathan\Documents\SFU\PP\seesharp\MessinAround\MessinAround\obj\Debug\MessinAround.frmLoad.resources
+C:\Users\Jonathan\Documents\SFU\PP\seesharp\MessinAround\MessinAround\obj\Debug\MessinAround.Properties.Resources.resources
+C:\Users\Jonathan\Documents\SFU\PP\seesharp\MessinAround\MessinAround\obj\Debug\MessinAround.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Documents\SFU\PP\seesharp\MessinAround\MessinAround\bin\Debug\MessinAround.exe
+C:\Users\Jonathan\Documents\SFU\PP\seesharp\MessinAround\MessinAround\bin\Debug\MessinAround.pdb
+C:\Users\Jonathan\Documents\SFU\PP\seesharp\MessinAround\MessinAround\obj\Debug\MessinAround.exe
+C:\Users\Jonathan\Documents\SFU\PP\seesharp\MessinAround\MessinAround\obj\Debug\MessinAround.pdb
