@@ -28,7 +28,15 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
+            this.ticktimer = new System.Windows.Forms.Timer(this.components);
             this.SuspendLayout();
+            // 
+            // ticktimer
+            // 
+            this.ticktimer.Enabled = true;
+            this.ticktimer.Interval = 1000;
+            this.ticktimer.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // frmLoad
             // 
@@ -40,11 +48,14 @@
             this.Text = "The Form!";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.Paint += new System.Windows.Forms.PaintEventHandler(this.frmLoad_Paint);
+            this.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.frmLoad_KeyPress);
             this.ResumeLayout(false);
 
         }
 
         #endregion
+
+        private System.Windows.Forms.Timer ticktimer;
     }
 }
 
